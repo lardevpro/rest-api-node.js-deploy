@@ -1,4 +1,4 @@
-const z = require('zod')
+import z from 'zod'
 
  //validacion con 'zod'
     const movieSchema = z.object({ //objeto que se va a recibir
@@ -22,13 +22,13 @@ const z = require('zod')
         )
     })
 
-    function validateMovie(object){
+    export function validateMovie(object){
         return movieSchema.safeParseAsync(object) //safeParse devuelve si la operación tuvo éxito
     }
 
-    function validatePartialMovie (object) {
+    export function validatePartialMovie (object) {
         return movieSchema.partial().safeParse(object) // partial si no está no le da importancia, si está me la valida
     }
 
 
-    module.exports = { validateMovie, validatePartialMovie }
+    
