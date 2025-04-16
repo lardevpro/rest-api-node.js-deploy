@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/ed00e76f-8df9-4404-981b-4b35027ec043" alt="Mi imagen" width="900" border-radius="10px"/>
+<img src="https://github.com/user-attachments/assets/ed00e76f-8df9-4404-981b-4b35027ec043" alt="Mi imagen" width="900" style="border-radius: 12px;"/>
 <br><br>
 
 
