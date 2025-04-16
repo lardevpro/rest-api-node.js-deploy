@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ed00e76f-8df9-4404-981b-4b35027ec043" alt="Vista de la aplicación" width="900" style="border-radius: 12px;" />
+  <img src="https://github.com/user-attachments/assets/ed00e76f-8df9-4404-981b-4b35027ec043" alt="Vista de la aplicación" width="800" />
 </p>
 <br><br>
 
